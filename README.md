@@ -88,3 +88,8 @@ _pom.xml build configuration_
         </plugins>
     </build>
 ````
+
+## check coverage reports
+
+run `mvn clean test`, then open `target/site/jacoco/index.html`
+
